@@ -1,0 +1,22 @@
+{
+    "version": "0.15.3",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/deployhq/deployhq-cli/releases/download/v0.15.3/dhq_0.15.3_windows_amd64.zip",
+            "bin": [
+                "dhq.exe"
+            ],
+            "hash": "73a4ed8bd0eeccb415bdef36fcbf9a026e2c8ac57f7b5b247ab60fe98a646266"
+        },
+        "arm64": {
+            "url": "https://github.com/deployhq/deployhq-cli/releases/download/v0.15.3/dhq_0.15.3_windows_arm64.zip",
+            "bin": [
+                "dhq.exe"
+            ],
+            "hash": "b069aec518be68ad70fca326f0c79ecb66f0830dff56fdaa25d101fda576af4d"
+        }
+    },
+    "homepage": "https://www.deployhq.com",
+    "license": "MIT",
+    "description": "DeployHQ CLI — deploy from your terminal"
+}
