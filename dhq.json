@@ -1,19 +1,19 @@
 {
-    "version": "0.17.0",
+    "version": "0.17.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/deployhq/deployhq-cli/releases/download/v0.17.0/dhq_0.17.0_windows_amd64.zip",
+            "url": "https://github.com/deployhq/deployhq-cli/releases/download/v0.17.1/dhq_0.17.1_windows_amd64.zip",
             "bin": [
                 "dhq.exe"
             ],
-            "hash": "7447d8f7c8a2351e2a6e2206f87db3a7ce257014f42933e83304307bb52bfa07"
+            "hash": "336c33fb83bee747583db5bc98d43365768454d16699c85cd7edc693e0ac5f81"
         },
         "arm64": {
-            "url": "https://github.com/deployhq/deployhq-cli/releases/download/v0.17.0/dhq_0.17.0_windows_arm64.zip",
+            "url": "https://github.com/deployhq/deployhq-cli/releases/download/v0.17.1/dhq_0.17.1_windows_arm64.zip",
             "bin": [
                 "dhq.exe"
             ],
-            "hash": "46e12352accf1143cc065dbf006bcdf373f9a2fe042f5733b961ab8992c06aa0"
+            "hash": "24f76d07c2310429c62631793cb2940efac2244c0da42c82d0777315a8ee077f"
         }
     },
     "homepage": "https://www.deployhq.com",
